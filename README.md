@@ -14,6 +14,10 @@ You can clone this repository using the `gh repo clone` command or the standard 
 gh repo clone Neverbeast24/WordSearch-PHP
 # Or using Git:
 # git clone [https://github.com/Neverbeast24/WordSearch-PHP.git](https://github.com/Neverbeast24/WordSearch-PHP.git)
+```
 
-#### 2. Run with XAMPP Apache Server
-This project requires a local web server to run. The easiest way is to use XAMPP. You will need to start the Apache server in your XAMPP control panel, place the cloned WordSearch-PHP folder in your htdocs directory, and then open your web browser.
+#### 2. Run XAMPP Apache Server 
+After cloning, run this to your browser 
+```bash
+http://localhost/WordSearch-PHP/main.php
+```
