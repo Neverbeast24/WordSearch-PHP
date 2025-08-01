@@ -2,4 +2,4 @@
 Word hunt programming terms 
 
 # Git Clone
-git clone https://github.com/user/repository-name.git
+```bash git clone https://github.com/user/repository-name.git
