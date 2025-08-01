@@ -1,6 +1,6 @@
 # WordSearch-PHP
 
-A simple word hunt game built with PHP. This project allows users to search for programming terms within a grid of letters.
+A simple word hunt game built with PHP with Ajax for saving scores. This project allows users to search for programming terms within a grid of letters.
 
 ## Getting Started
 
