@@ -5,4 +5,8 @@ Word hunt programming terms
 ```bash
 git clone https://github.com/user/repository-name.git
 
-# sadasd
+
+# Run XAMPP Apache Server
+Open you browser and run
+```bash
+http://localhost/WordSearch-PHP/main.php
